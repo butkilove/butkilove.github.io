@@ -10,31 +10,31 @@
     // Put your photos in the "photos/" folder and update the filenames.
     const slides = [
         {
-            image: 'photos/photo1.jpg',
+            image: './photos/photo1.jpg',
             caption: 'Miles away. But still together.'
         },
         {
-            image: 'photos/photo2.jpg',
+            image: './photos/photo2.jpg',
             caption: 'How can I forget the smile on your face at that moment?'
         },
         {
-            image: 'photos/photo3.jpg',
+            image: './photos/photo3.jpg',
             caption: 'How can I forget my prayers to keep me closer to you, ALWAYS?'
         },
         {
-            image: 'photos/photo4.jpg',
+            image: './photos/photo4.jpg',
             caption: 'How can I forget the efforts I always put to make you happy?'
         },
         {
-            image: 'photos/photo5.jpg',
+            image: './photos/photo5.jpg',
             caption: 'You have always been like my kid, Butki'
         },
         {
-            image: 'photos/photo6.jpg',
+            image: './photos/photo6.jpg',
             caption: 'I can never be apart from you, my Butki.'
         },
         {
-            image: 'photos/photo7.jpg',
+            image: './photos/photo7.jpg',
             caption: 'I am ready to change for you and be with you always.'
         }
     ];
